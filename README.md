@@ -15,7 +15,10 @@ This is a simple counter project implemented using HTML, CSS, and JavaScript.
 
 ## Screenshots
 
-![Counter Screenshot](screenshots/counter_screenshot.png)
+## Screenshots
+
+![Counter Screenshot](Counter/screenshot.png)
+
 
 ## Author
 
