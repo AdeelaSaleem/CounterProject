@@ -17,7 +17,8 @@ This is a simple counter project implemented using HTML, CSS, and JavaScript.
 
 ## Screenshots
 
-![Counter Screenshot](CounterProject/screenshot.png)
+![Counter Screenshot](https://github.com/AdeelaSaleem/CounterProject/blob/3cd4bd80eec9bfc86e4110ebc0bf28aa61c269fe/screenshot.png)
+
 
 
 ## Author
